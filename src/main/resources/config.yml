@@ -8,7 +8,7 @@ version: 3
 
 # Cooldown between auto totem uses. (In Seconds) Set to 0 for no cooldown.
 # this can be overridden by giving players the autototem.bypass permission
-cooldown: 0
+cooldown: 3
 
 # Should vanilla totem use (Using a totem of undying normally by holding it in your hand) be effected by cooldowns?
 includeVanillaTotemsInCooldown: false
